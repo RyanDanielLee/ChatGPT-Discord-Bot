@@ -35,6 +35,7 @@ To start your bot, use the command `node index.js` in your terminal
 Go to https://discloudbot.com/dashboard and add an app
 
 
+
 In `discloud.config` change the name of the bot to whatever you want
 
 
