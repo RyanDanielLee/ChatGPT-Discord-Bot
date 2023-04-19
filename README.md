@@ -4,6 +4,7 @@
 
 Go to https://discord.com/developers/applications to create a bot
 
+
 Then, generate a link to invite your bot to a server
 ![image](https://user-images.githubusercontent.com/105259018/232949904-934fd4e0-29a8-42d8-b637-c1e4ce829ddb.png)
 
