@@ -1,6 +1,7 @@
 <h1>ChatGPT Discord Bot</h1>
 
 <h2>Getting Started</h2>
+
 Go to https://discord.com/developers/applications to create a bot
 
 Then, generate a link to invite your bot to a server
