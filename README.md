@@ -15,7 +15,7 @@ After installing the preset files, you want to create a file named `.env` This f
 ![image](https://user-images.githubusercontent.com/105259018/232950383-d5dd7573-b065-44dc-85dc-f15b0a7c55d0.png)
 
 
-Go back to your discord dashboard and obtain the bot's token and paste it into the ###.env file
+Go back to your discord dashboard and obtain the bot's token and paste it into the `.env` file
 
 Then, head over to https://platform.openai.com/account/api-keys to obtain your OpenAI key and paste it into your .env file.
 
