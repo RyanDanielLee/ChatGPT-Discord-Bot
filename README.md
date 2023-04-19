@@ -1,4 +1,4 @@
-<h1>ChatGPT Discord Bot</h1>
+#ChatGPT Discord Bot
 A simple discord bot made using node js that consumes the chatgpt 3.5 API
 
 <h2>Getting Started</h2>
